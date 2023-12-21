@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <title>Sentinels - Valorant</title>
+        <meta name="Sentinels" content="Team">
+        <link rel="stylesheet" href="styles2team.css">
+        <script src="https://kit.fontawesome.com/1f8f9421f7.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <section class="home">
+            <center>
+                <a href="main.html"> 
+                    <img src="homebild.png" alt="Homebild" width=5%>
+                </a>
+            </center>
+        </section>
+        <h1>
+            
+        </h1>   
+
+        <section class="player">
+            <h2>
+                Team 
+            </h2>
+            <p>
+                <ul>
+                    <a href="#">Das Valorant Team der Sentinels besteht aus 5 Spielern:</a>
+                </ul>
+                <ul>
+                    <li class="shazam">
+                        <a href="#">Shazam</a>
+                    </li>
+                    <li class="tenz">
+                        <a href="#">TenZ</a>
+                    </li>
+                    <li class="zombs">
+                        <a href="#">Zombs</a>
+                    </li>
+                    <li class="sick">
+                        <a href="#">Sick</a>
+                    </li>
+                    <li class="dapr">
+                        <a href="#">Dapr</a>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    
+            <img src="shazam.png" width="15%"  class=" shazamp">
+            <img src="tenz.png" width="15%"  class="tenzp">
+            <img src="zombs.png" width="15%" class="zombsp">
+            <img src="sick.png" width="15%"  class="sickp">
+            <img src="dapr.png" width="15%"  class="daprp">
+        </section>
+
+        <footer class="footer">
+            <div class="more">
+                <ul>
+                    <h4>
+                        <a href="#" onclick="return false;">Mehr...</a>
+                    </h4>
+                    <li>
+                        <a href="#">
+                            <a href="Main.html">
+                                <i>Haupseite</i>
+                            </a>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <a href="matchhistory.html">
+                                <i>Matchhistorie</i>
+                            </a> 
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" onclick="return false;">
+                                <i>-</i>
+                            </a>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="quellen">
+                <ul>
+                    <h4>
+                        <a href="#" onclick="return false;">Referenzen</a>
+                    </h4>
+                    <li>
+                        <a href="#">
+                            <a href="https://playvalorant.com/de-de/">
+                                <i>Valorant</i>
+                            </a>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <a href="https://www.sentinels.gg">
+                                <i>Sentinels</i>
+                            </a>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <a href="https://liquipedia.net/valorant/Sentinels">
+                                <i>Wiki-Sentinels</i>
+                            </a>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+
+        <a class="gotop" href="#"><i class="fa-solid fa-angles-up"></i></a>
+    </body>
+</html>
+
